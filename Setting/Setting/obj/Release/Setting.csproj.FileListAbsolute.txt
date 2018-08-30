@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Setting\Setting\bin\Release\Setting.exe.config
+C:\Users\Administrator\source\repos\Setting\Setting\bin\Release\Setting.exe
+C:\Users\Administrator\source\repos\Setting\Setting\bin\Release\Setting.pdb
+C:\Users\Administrator\source\repos\Setting\Setting\obj\Release\Setting.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\Setting\Setting\obj\Release\Setting.Form1.resources
+C:\Users\Administrator\source\repos\Setting\Setting\obj\Release\Setting.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Setting\Setting\obj\Release\Setting.csproj.GenerateResource.Cache
+C:\Users\Administrator\source\repos\Setting\Setting\obj\Release\Setting.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Setting\Setting\obj\Release\Setting.exe
+C:\Users\Administrator\source\repos\Setting\Setting\obj\Release\Setting.pdb

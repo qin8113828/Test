@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Setting\Setting\bin\Debug\Setting.exe
+C:\Users\Administrator\source\repos\Setting\Setting\bin\Debug\Setting.pdb
+C:\Users\Administrator\source\repos\Setting\Setting\obj\Debug\Setting.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\Setting\Setting\obj\Debug\Setting.Form1.resources
+C:\Users\Administrator\source\repos\Setting\Setting\obj\Debug\Setting.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Setting\Setting\obj\Debug\Setting.csproj.GenerateResource.Cache
+C:\Users\Administrator\source\repos\Setting\Setting\obj\Debug\Setting.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Setting\Setting\obj\Debug\Setting.exe
+C:\Users\Administrator\source\repos\Setting\Setting\obj\Debug\Setting.pdb
+C:\Users\Administrator\source\repos\Setting\Setting\bin\Debug\Setting.exe.config
